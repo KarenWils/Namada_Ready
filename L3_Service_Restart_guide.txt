@@ -1,0 +1,3 @@
+1. When the GA II LCD is black/static or disappears from the L-Connect 3 software menu, please run [L3__Service_Restart].
+2. Right click on the [L3__Service_Restart] icon and run it as [System Administrator].
+3. After it has finished running,【PLEASE OPEN L3】will be displayed. please manually open the L-Connect 3 program.
